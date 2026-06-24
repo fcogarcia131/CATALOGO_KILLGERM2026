@@ -1,4 +1,4 @@
-# Selector de Biocidas NC Plagas
+# Selector  de Biocidas NC Plagas
 
 App React/Vite para clasificar biocidas por plaga y calcular dosis de uso, incluyendo productos diluibles en agua según volumen de caldo preparado.
 
@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-## Despliegue correcto en GitHub Pages
+##  Despliegue correcto en GitHub Pages
 
 Esta versión incluye:
 
